@@ -1,0 +1,26 @@
+Customer_ID,Name,Gender,Age,Join_Date,City,Product,Quantity,Unit_Price,Total_Sales,Email
+C001,John Smith,Male,25.0,2023-01-15,Chennai,Laptop,2.0,55000,110000.0,john@gmail.com
+C002, Priya Sharma ,female,32.0,15/02/2023,Chennai,Phone,1.0,25000,25000.0,priya@gmail.com
+C003,Rahul Kumar,M,28.0,2023/03/10,Bangalore,Tablet,3.0,18000,54000.0,rahul@gmail.com
+C004,Anita Das,F,45.0,10-04-2023,Mumbai,Laptop,1.0,60000,60000.0,anita@gmail.com
+C005,Arjun Patel,male,52.0,2023-05-20,Delhi,Phone,2.0,30000,60000.0,arjun@gmail.com
+C006,Sneha Rao,Female,,25/06/2023,Chennai,Tablet,2.0,20000,40000.0,sneha@gmail.com
+C007,Vikram Singh,M,150.0,2023-07-15,Bangalore,Laptop,1.0,65000,65000.0,vikram@gmail.com
+C008,Meena Iyer,female,29.0,2023-08-10,Chennai,Phone,,28000,28000.0,meena@gmail.com
+C009,Ravi Kumar,Male,34.0,2023-09-05,Delhi,Tablet,4.0,15000,60000.0,ravi@gmail.com
+C010,Kavya Nair,F,27.0,2023-10-12,Mumbai,Laptop,2.0,70000,140000.0,kavya@gmail.com
+C011, Suresh Menon ,male,41.0,2023-11-01,Chennai,Phone,1.0,27000,,suresh@gmail.com
+C012,Lakshmi Devi,Female,36.0,2023-12-15,Bangalore,Tablet,2.0,19000,38000.0, 
+C013,John Smith,Male,25.0,2023-01-15,Chennai,Laptop,2.0,55000,110000.0,john@gmail.com
+C014,Divya Reddy,female,31.0,2024-01-10,Hyderabad,Phone,1.0,26000,26000.0,divya@gmail.com
+C015,Amit Shah,Male,22.0,2024-02-14,Mumbai,Laptop,1.0,58000,58000.0,amit@gmail.com
+C016,Pooja Jain,F,39.0,2024-03-01,Delhi,Tablet,2.0,17500,35000.0,pooja@gmail.com
+C017,Manoj Gupta,M,44.0,2024-04-20,Chennai,Phone,3.0,29000,87000.0,manoj@gmail.com
+C018,Neha Kapoor,Female,33.0,2024-05-12,Bangalore,Laptop,1.0,62000,62000.0,neha@gmail.com
+C019,Deepak Verma,Male,-5.0,2024-06-10,Delhi,Phone,2.0,31000,62000.0,deepak@gmail.com
+C020,Anjali Bose,F,30.0,2024-07-15,Chennai,Tablet,1.0,18500,18500.0,anjali@gmail.com
+C021,Ramesh Iyer,Male,38.0,2024-08-20,Bangalore,Laptop,2.0,59000,118000.0,ramesh@gmail.com
+C022,Swati Rao,female,26.0,2024-09-10,Mumbai,Phone,1.0,25500,25500.0,swati@gmail.com
+C023,Kiran Das,M,35.0,2024-10-05,Delhi,Tablet,3.0,16500,49500.0,kiran@gmail.com
+C024,Geeta Singh,Female,48.0,2024-11-11,Chennai,Laptop,1.0,61000,61000.0,geeta@gmail.com
+C025,Rohit Mehta,Male,29.0,2024-12-01,Bangalore,Phone,2.0,27500,55000.0,rohit@gmail.com
